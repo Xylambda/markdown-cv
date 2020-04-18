@@ -25,6 +25,7 @@ Data scientist.
 ## Work experience
 
 ### ETS Asset Management Factory
+`October 2019 - Present`
 * __Junior Data Scientist__ 
 
 FOREX Alpha research applied to currency overlay management.<br>
@@ -47,8 +48,6 @@ previous version and up to 8% with respect to the market benchmark.
 * __Computer Science__ <br><br>
 * Alma mater.
 
-
-
 ## Languages
 ### __Spanish__
 * Mother tongue.
@@ -58,6 +57,11 @@ previous version and up to 8% with respect to the market benchmark.
 
 ### __English__
 * Fluent. First Cambridge Certificate (175)
+
+
+## Interests
+### __Spanish__
+Piano · Films · Reading · Gaming
 
 
 <!-- ### Footer

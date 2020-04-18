@@ -1,87 +1,63 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alejandro cv
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alejandro Pérez Sanjuán
+Data scientist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://xylambda.github.io/blog/">Blog</a>
+| <a href="https://www.linkedin.com/in/alejandro-p%C3%A9rez-sanju%C3%A1n/">Linkedin</a>
+|  <a href="https://github.com/Xylambda">Github</a>
 </div>
 
+## Skills
 
-## Currently
+### Programming Languages
+* Python · R · Java
 
-Standing on the shoulders of giants
+### Libraries
+* Pandas · NumPy · PyTorch · Keras · Scikit-Learn · Matplotlib · Seaborn.
 
-### Specialized in
+### Web / Media
+* Latex · Markdown · HTML · CSS · Wordpress · Jupyter Notebook
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Work experience
 
+### ETS Asset Management Factory
+* __Junior Data Scientist__ 
 
-### Research interests
+FOREX Alpha research applied to currency overlay management.<br>
+* · Increased performance of overlay solutions up to 2% with respect to the 
+previous version and up to 8% with respect to the market benchmark.
+* · Developed a PyTorch-based machine learning library for trading.
+* · Developed a library to filter outliers in time series.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+### Self-employed
+* __Front-end developer__ 
 
 ## Education
+### __HU Hogeschool Utrecht__
+`February 2019 - June 2019`
+* __Big Data and Social Media__ <br><br>
+* Erasmus exchange student at Netherlands.
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+### __Polytechnic School of Valencia__
+`September 2015 - January 2019`
+* __Computer Science__ <br><br>
+* Alma mater.
 
 
 
-## Awards
+## Languages
+### __Spanish__
+* Mother tongue.
 
-`2012`
-President, *Royal Society*, London, UK
+### __Valencian__
+* Mother tongue.
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### __English__
+* Fluent. First Cambridge Certificate (175)
 
 
 <!-- ### Footer
